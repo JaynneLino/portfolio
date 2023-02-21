@@ -1,0 +1,27 @@
+<!--navigation - serve para navegar no site-->
+<!--serve como link. O "a" significa ancora-->
+<!--Se eu selecionar as tags e usar o ctrl D, eu consigo escrever em todas as tags ao mesmo tempo-->
+<!--Para colocar imagem, insere a tag "img"-->
+<!--O recurso SRC busca imagem ou outros arquivos. Adicionar na tag de inicio-->
+<!--Quando é imagem, não precisa de tag de fechamento-->
+<!--Se apertar ctrl + end, vai lá para o final-->
+<!-- a tag H1 é o título que aparece na pagina. A tag "title" é o titulo do site-->
+<!-- a tag "meta" serve para adicionar caracteres espciais ao site, a UTF-08 tem varios caracteres-->
+<!--Usar a tag "Doctype html" para mostrar que é um html-->
+<!--atributo global - a tag "lang" serve para definir o idioma do site, fica dentro da tag html. Tem a tag "em" pra definir uma palavra em outro idioma no meio do texto-->
+<!--HTML é responsável pelo conteúdo // CSS cuida tudo que é visual (imagem, ícone, animação etc)-->
+<!--quandp é HTML usa o sinal de igual(=) para atribuir uma caracteristica-->
+<!--quandp é CSS usa o sinal de dois pontos(:) para atribuir uma caracteristica-->
+<!--Site para baixar FONTES -- https://fonts.google.com/specimen/Fira+Code?query=fira+code-->
+<!-- na aba INDEX.CSS o comando Text decoration TIRA o underline dos textos-->
+<!--Site para buscar decoração de texto -- https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-->
+<!--Margin é um "respiro" na parte externa do texto e Padding é um respiro na parte interna-->
+<!--Display inline-block permite criar quadrados ao lado das tags de navegação-->
+<!--Tem um inline-flex que permite alinhar dois itens na página-->
+<!--site para validar html VALIDATOR.W3.ORG-->
+<!--MDN site pra tirar duvidas-->
+
+
+SITES:
+COR: https://flatcolors.net/palette/451-i-too-know-beauty#
+FONTE: https://fonts.google.com/
