@@ -25,3 +25,14 @@
 SITES:
 COR: https://flatcolors.net/palette/451-i-too-know-beauty#
 FONTE: https://fonts.google.com/
+
+
+GIT:
+COMANDOS --
+Git add > serve para adcionar arquivos na branch
+Git commit -m "" > serve para salvar um ponto na branch com uma mensagem
+Git log > serve para ver todos s commits da branch.
+Git commit --amend > para alterar a mensagem do commit anterior (para salvar, usa :x)
+cd > comando para entrar em uma pasta
+git remote add origin + o link do github
+cd .. >  volta para pasta de cima
