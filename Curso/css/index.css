@@ -56,24 +56,6 @@
 
     }
 
-    #button{
-
-        display: inline-block;
-        background-color: #031A5A;
-        padding-left: 20px;
-        padding-right: 20px;
-        padding-bottom: 18px;
-        padding-top: 18px;
-        margin-right: 0;
-        box-shadow: 5px 5px 0px #000000;
-        transition: transform 250ms linear;
-    }
-
-    #button:hover {
-
-        color: #ffffff;
-        background-color: #F25A70;
-        transform: scale(1.08);
-      }
+  
 
 
