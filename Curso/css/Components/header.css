@@ -1,0 +1,21 @@
+   
+   .header {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #F0E3E3;
+    border-bottom: 10px solid #031A5A;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+   }
+   
+   .img { 
+     
+    height: 70px;
+    width: 70px;
+
+   }

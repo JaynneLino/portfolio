@@ -1,3 +1,14 @@
+body {
+    font-family: 'Fira code', Arial, Helvetica, sans-serif;
+    background-color: #B5C3C8;
+}
+
 body, h1, h2, h3 {
     margin:0;
+}
+
+button{
+
+    border: none;
+    font-family: inherit;
 }
