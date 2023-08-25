@@ -5,3 +5,10 @@
     text-shadow: 4px 4px #000000;
   
 }
+
+.title.-second{
+    text-align: center;
+    padding-top: 50px;
+    text-shadow: none;
+    color: #000000;
+}

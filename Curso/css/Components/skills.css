@@ -1,0 +1,41 @@
+.skills{
+    background-color: #d48590;
+    height: 730px;
+    border-bottom: 10px solid #031a5a;
+    text-align: center;
+
+    }
+
+
+.column1 {
+
+    display: inline-flex; 
+    flex-direction: column;
+    padding-right: 30px;
+
+
+    }
+
+.column2 {
+
+    display: inline-flex; 
+    flex-direction: column;
+    padding-left: 30px;
+    
+      
+    
+    }
+
+.rectangle{
+    height: 40px;
+    width: 320px;
+    
+    border: 5px solid black;
+    margin-top: 38px;
+    margin-bottom: 38px;
+    background: linear-gradient(to right, #031A5A 0%, #031A5A 80%, #E5D4D7 80%, #E5D4D7 100%)
+    
+
+}
+
+   
