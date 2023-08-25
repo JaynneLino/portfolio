@@ -1,6 +1,8 @@
-.skills{
+.section{
     background-color: #d48590;
     height: 730px;
+    padding-top: 50px;
+    padding-bottom: 100px;
     border-bottom: 10px solid #031a5a;
     text-align: center;
 
@@ -38,4 +40,13 @@
 
 }
 
+.section.-projetos{
+    background-color: #000;
+    height: 730px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    border-bottom: 10px solid #031a5a;
+    text-align: center;
+
+    }
    
