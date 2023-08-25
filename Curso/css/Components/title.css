@@ -12,3 +12,10 @@
     text-shadow: none;
     color: #000000;
 }
+
+.title.-third{
+    text-align: center;
+    padding-top: 50px;
+    text-shadow: none;
+    color: #FFF;
+}
