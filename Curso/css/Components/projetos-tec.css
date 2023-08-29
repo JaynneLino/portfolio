@@ -1,0 +1,30 @@
+.projetos-tec{
+
+    margin-top: 60px;
+
+    
+}
+
+.projetos-tec .icon-projetos{
+
+    box-shadow: #fff 10px 10px 0px 0px;
+    padding: 10px 10px 10px 10px;
+    max-width: 250px;
+    max-height: 280px;
+   
+}
+.projetos-tec #Firelabs{
+    background-color: #7C5E99;
+
+}
+
+.projetos-tec #logo-collabcode{
+    background-color: #031A5A;
+
+}
+
+.projetos-tec #Portifolio{
+    background-color: #F25A70;
+
+}
+

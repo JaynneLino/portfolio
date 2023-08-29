@@ -1,0 +1,17 @@
+.wrapper-projetos {
+    display: flex;
+    justify-content:space-around;
+    max-width: auto;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 70px;
+   
+    
+}
+
+.wrapper-projetos .projetos-tec{
+    max-width: 930px;
+    margin-bottom: 40px;
+    
+
+}
