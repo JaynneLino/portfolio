@@ -1,4 +1,4 @@
-.section.-skill{
+.main-section.-skill{
    
     background-color: #d48590;
     height: 730px;
@@ -7,7 +7,7 @@
     border-bottom: 10px solid #031a5a;
     }
 
-.section.-projetos{
+.main-section.-projetos{
     background-color: #000;
     height: 520px;
     padding-top: 50px;
