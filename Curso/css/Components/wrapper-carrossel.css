@@ -1,0 +1,43 @@
+.wrapper-carrossel {
+
+    display: flex;
+    justify-content: space-between;
+    width: auto;
+    margin-top: 60px;
+    margin-bottom: 60px; 
+    padding-left: 15px;
+    padding-right: 15px; 
+    position:relative 
+    
+}
+
+.wrapper-carrossel::after{
+
+    content: '';
+    position: absolute;
+    left: 40px;
+    top: 38px;
+    box-sizing: border-box;
+    width: calc(100% - 80px);
+    border-top: 4px solid #000;
+   
+}
+
+.wrapper-carrossel::before{
+
+    content: '';
+    position: absolute;
+    left: 0px;
+    top: 38px;
+    box-sizing: border-box;
+    width: 100%;
+    border-top: 4px dashed rgb(0, 0, 0);
+   
+}
+
+.wrapper-carrossel .button-arrow {
+    position: relative;
+    top: 120px;
+    transform: translateY(50%);
+
+}

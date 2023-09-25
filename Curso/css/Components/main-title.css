@@ -1,4 +1,4 @@
-.main-title{
+.main-title {
     font-family: "Press start 2P", sans-serif;
     font-size: 40px;
     color:#F25A70;
@@ -6,26 +6,33 @@
   
 }
 
-.main-title.-second{
+.main-title.-second {
     
     font-family: "Press start 2P", sans-serif;
     font-size: 40px;
     text-shadow: none;
     color: #000000;
     text-align: center;
+    padding-top: 50px;
 }
 
-.main-title.-third{
+.main-title.-third {
     text-align: center;
     padding-top: 50px;
     text-shadow: none;
     color: #FFF;
+    padding-top: 50px;
 }
 
-.main-title.-fourth{
+.main-title.-carrossel {
+    color: #F25A70;
+    font-family: "Press Start 2P";
+    font-size: 20px;
+    font-style: normal;
     text-align: center;
-    padding-top: 50px;
-    text-shadow: none;
-    color: #FFF;
+    font-weight: 700;
+    line-height: 30px;
+    text-shadow: 0px 5px 5px 5px solid #000;
+    padding-bottom: 30px;
 
 }
