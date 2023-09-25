@@ -1,4 +1,4 @@
-.wrapper-carrossel {
+.main-carrossel {
 
     display: flex;
     justify-content: space-between;
@@ -11,7 +11,7 @@
     
 }
 
-.wrapper-carrossel::after{
+.main-carrossel::after{
 
     content: '';
     position: absolute;
@@ -23,7 +23,7 @@
    
 }
 
-.wrapper-carrossel::before{
+.main-carrossel::before{
 
     content: '';
     position: absolute;
@@ -35,7 +35,7 @@
    
 }
 
-.wrapper-carrossel .button-arrow {
+.main-carrossel .button-arrow {
     position: relative;
     top: 120px;
     transform: translateY(50%);
