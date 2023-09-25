@@ -2,7 +2,6 @@
 
     display: flex;
     justify-content: space-between;
-    width: auto;
     margin-top: 60px;
     margin-bottom: 60px; 
     padding-left: 15px;
@@ -36,8 +35,24 @@
 }
 
 .main-carrossel .button-arrow {
+
     position: relative;
     top: 120px;
     transform: translateY(50%);
+
+}
+
+.main-carrossel .items {
+
+    width: 91%;
+    overflow: hidden;
+
+}
+
+.main-carrossel .elements {
+
+    display: flex;
+    justify-content: space-around;
+    transform: translateX(400px);
 
 }
