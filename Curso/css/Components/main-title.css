@@ -16,12 +16,16 @@
     padding-top: 50px;
 }
 
-.main-title.-third {
+.main-title.-third, .main-title.-fourth{
     text-align: center;
     padding-top: 50px;
     text-shadow: none;
     color: #FFF;
     padding-top: 50px;
+}
+
+.main-title.-fourth{
+    color: #BA3E3E;
 }
 
 .main-title.-carrossel {

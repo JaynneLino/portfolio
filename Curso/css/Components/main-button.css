@@ -22,3 +22,11 @@
     background-color: #F25A70;
     transform: scale(1.08);
   }
+
+  .main-button.-form{
+
+    height: 60px;
+    width: 100%;
+
+
+  }

@@ -1,0 +1,37 @@
+.main-form{
+    
+    padding-top: 30px;
+    width: 100%;
+    
+
+}
+
+.main-form .label {
+    
+    text-align: justify;
+    font-family: "Fira Code";
+    font-size: 22px;
+    font-weight: 500;
+    color: #031A5A;
+
+  }
+
+  .main-form .input-box {
+    
+    width: 100%;
+    text-align: justify;
+    font-family: "Arial";
+    font-size: 18px;
+    font-weight: 300;
+    color: #000;
+    margin-bottom: 20px;
+    border: 3px solid #000;
+
+  }
+
+  .main-form .input-box.-text{
+    height: 250px;
+    
+
+  }
+

@@ -53,6 +53,6 @@
 
     display: flex;
     justify-content: space-around;
-    transition: transform 150ms ease-in-out;
+    transition: transform 200ms ease-in-out;
 
 }
