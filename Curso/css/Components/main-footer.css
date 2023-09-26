@@ -1,0 +1,15 @@
+.main-footer{
+
+    display: flex;
+    justify-content: space-evenly;
+    padding: 15px 550px 15px 550px;
+    background-color: #000;
+
+}
+
+
+.main-footer .footer-img{
+
+    width: auto;
+    height: 40px;
+}
