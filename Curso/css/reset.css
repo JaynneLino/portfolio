@@ -3,7 +3,7 @@ body {
     background-color: #B5C3C8;
 }
 
-body, h1, h2, h3, figure, input {
+body, h1, h2, h3, figure, input, .main-button.-form {
     margin:0;
 }
 
