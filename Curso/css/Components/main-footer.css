@@ -1,16 +1,16 @@
 .main-footer{
-
     display: flex;
-    justify-content: space-evenly;
-    padding: 10px 600px 10px 600px;
+    justify-content: center;
+    padding: 10px 0px 10px 0px;
     background-color: rgb(0, 0, 0);
 
 }
 
 
 .main-footer .footer-img{
-
     width: 50px;
     height: 50px;
+    margin-left: 15px;
+    margin-right: 15px;
     
 }

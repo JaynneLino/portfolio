@@ -1,6 +1,5 @@
    
    .main-header {
-
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -13,8 +12,7 @@
 
    }
    
-   .img { 
-     
+   .img {  
     height: 70px;
     width: 70px;
 

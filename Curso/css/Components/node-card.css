@@ -1,5 +1,4 @@
-.node-card {
-    
+.node-card {  
     display:inline-flex;
     flex-direction: column;
     align-items: center;
@@ -8,7 +7,6 @@
 }
 
 .node-card::before {
-
     content: '';
     box-sizing: border-box;
     height: 0px;
@@ -19,7 +17,6 @@
 
 
 .card-description {
-    
     color:#0f0202;
     font-family: "Fira Code";
     font-size: 23px;

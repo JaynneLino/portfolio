@@ -1,11 +1,9 @@
 .main-form{
-    
     padding-top: 30px;
 
 }
 
 .main-form .label {
-    
     text-align: justify;
     font-family: "Fira Code";
     font-size: 22px;
@@ -15,7 +13,6 @@
   }
 
   .main-form .input-box {
-    
     width: 100%;
     text-align: justify;
     font-family: "Arial";
@@ -29,6 +26,6 @@
 
   .main-form .input-box.-text{
     height: 250px;
-    
+
   }
 

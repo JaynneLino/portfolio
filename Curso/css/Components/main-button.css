@@ -1,5 +1,4 @@
 .main-button{
-
     display: inline-block;
     background-color: #031A5A;
     padding-left: 20px;
@@ -17,14 +16,12 @@
 }
 
 .main-button:hover {
-
     color: #ffffff;
     background-color: #F25A70;
     transform: scale(1.08);
   }
 
   .main-button.-form{
-
     height: 60px;
     width: 100%;
 

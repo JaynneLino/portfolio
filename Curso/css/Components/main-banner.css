@@ -1,5 +1,4 @@
 .main-banner{
-    
     box-sizing: border-box;
     background-image: url(../../assets-img/photo.png);
     background-repeat: no-repeat;
@@ -18,13 +17,11 @@
 }
 
 .main-banner .main-box{
-
     margin-bottom: 40px;
     
 }
 
 .main-banner .navigation {
-  
     display: flex;
     justify-content:space-around;
 
