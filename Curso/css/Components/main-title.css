@@ -17,7 +17,8 @@
 
 .main-title.-third, .main-title.-fourth{
     text-align: center;
-    padding-top: 50px;
+    padding-top: 30px;
+    margin-bottom: 20px;
     text-shadow: none;
     color: #FFF;
     padding-top: 50px;
@@ -25,13 +26,13 @@
 
 .main-title.-fourth{
     color: #BA3E3E;
+    margin-bottom: 35px;
 }
 
 .main-title.-carrossel {
     color: #F25A70;
     font-family: "Press Start 2P";
     font-size: 20px;
-    font-style: normal;
     text-align: center;
     font-weight: 700;
     line-height: 30px;

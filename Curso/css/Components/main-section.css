@@ -1,16 +1,16 @@
 .main-section.-skill{
     background-color: #d48590;
     height: 730px;
-    padding-top: 50px;
-    padding-bottom: 100px;
+    padding-top: 20px;
+    padding-bottom: 50px;
     border-bottom: 10px solid #031a5a;
     }
 
 .main-section.-projetos{
     background-color: #000;
     height: 520px;
-    padding-top: 50px;
-    padding-bottom: 100px;
+    padding-top: 20px;
+    padding-bottom: 50px;
     border-bottom: 10px solid #d48590;
 
     }
@@ -18,19 +18,10 @@
 .main-section.-sobre{
     background-color: #031A5A;
     height: 730px;
-    padding-top: 50px;
-    padding-bottom: 30px;
+    padding-top: 20px;
+    padding-bottom: 50px;
     border-bottom: 10px solid #000;
    
 }
 
-.main-section.-contatos{
-    background-color: #B5C3C8;
-    height: 630px;
-    padding-top: 20px;
-    padding-bottom: 30px;
-    padding-left: 100px;
-    padding-right: 100px;
-   
-}
 
