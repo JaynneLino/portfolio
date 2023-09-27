@@ -1,0 +1,27 @@
+.top-button {
+    position: fixed;
+    bottom: 10px;
+    float: right;
+    right: 3.5%;
+    left: 96.5%;
+    height: 39px;
+    width: 39px;
+    background-color:rgb(255, 255, 255, 0.8);
+    border-radius: 100%;
+    box-shadow: 0 2px 4px darkslategray;
+    cursor: pointer;
+    transition: all 0.2s ease;
+
+}
+
+.top-button:hover {
+    background-color: #7dbbf1;
+}
+
+.top-button .seta-top{
+    right: 3.5%;
+    left: 96.5%;
+    height: 40px;
+    width: 40px;
+
+}

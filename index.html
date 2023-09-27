@@ -4,6 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Jaynne Lino</title>
+<a id="top"></a>
 
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -30,6 +31,7 @@
 <link rel="stylesheet" href="./Curso/css/Components/main-carrossel.css">
 <link rel="stylesheet" href="./Curso/css/Components/main-form.css">
 <link rel="stylesheet" href="./Curso/css/Components/main-footer.css">
+<link rel="stylesheet" href="./Curso/css/Components/top-button.css">
 
 
 
@@ -38,12 +40,13 @@
 <body>
     <header class="main-header">
         <img class="img" src="Curso/assets-img/logo3.png" all="Logomarca">
+        
     
         <nav>
-            <a class="main-action" href="" lang="en">Skills</a>
-            <a class="main-action" href="">Projeto</a>
-            <a class="main-action" href="">Sobre</a>
-            <a class="main-action" href="">Contatos</a>
+            <a class="main-action" href="#skill" lang="en">Skills</a>
+            <a class="main-action" href="#projetos">Projeto</a>
+            <a class="main-action" href="#sobre">Sobre</a>
+            <a class="main-action" href="#contatos">Contatos</a>
             <a class="main-button" href="" lang="en">Download CV</a> 
         </nav>
     </header>
@@ -59,14 +62,14 @@
 
             <div class="navigation">
                 <a class="main-button" href="" lang="en">Download CV</a> 
-                <a class="main-button" href=""> Contatos </a>
+                <a class="main-button" href="#contatos"> Contatos </a>
             </div>
 
         </div>
     </section>
     
     
-    <section class="main-section -skill">
+    <section id= "skill" class="main-section -skill">
         <h2 class="main-title -second">Skills</h2>
         <div class="wrapper-skill">
 
@@ -155,7 +158,7 @@
 
     </section>
 
-    <section class="main-section -projetos">
+    <section id="projetos" class="main-section -projetos">
         <h2 class="main-title -third">Projetos</h2>
         <div class="wrapper-projetos">
             <a href="https://www.direct.me/dindindale" target="_blank">
@@ -173,7 +176,7 @@
         </div>
     </section>
 
-    <section class="main-section -sobre">
+    <section id="sobre" class="main-section -sobre">
         <h2 class="main-title -third">Sobre</h2>
 
         
@@ -236,7 +239,7 @@
     </section>
 
 
-    <form class="main-form">
+    <form id="contatos" class="main-form">
         <legend class="main-title -fourth"> Contatos</legend>
 
         <label class="main-label" for="name">Nome</label>
@@ -252,6 +255,7 @@
 
     </form>
 
+
     <footer class="main-footer">
         
         
@@ -262,7 +266,13 @@
             <img class="footer-img" src="./Curso/css/Img/Linkedin-logo.png" alt="Logo Linkedin">
         </a>
     
+
     </footer>
+
+    <a class="top-button" href="#top" lang="en">
+        <img class="seta-top" src="./Curso/css/Img/seta1.png" alt="seta-top">
+    </a> 
+
 
     <script src="./Curso/js/components/main-carrossel.js"></script>
 
